@@ -1,0 +1,29 @@
+#container
+{
+    width: 15rem;
+    height: 20rem;
+
+    border-radius: .5rem;
+    
+    overflow: hidden;
+
+    background-color: white;
+
+    filter: drop-shadow(0 0 .25rem rgba(0, 0, 0, .25));
+}
+#image
+{
+    width: 100%;
+}
+#content
+{
+    padding: 1rem;
+}
+#name
+{
+    font-size: 1.2rem;
+}
+#content
+{
+    font-size: 1rem;
+}
